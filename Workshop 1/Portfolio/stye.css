@@ -1,6 +1,7 @@
 ul{
     display: flex;
     list-style: none;
+    justify-content: flex-end;
 }
 li{
     padding-right: 4rem;
@@ -10,6 +11,7 @@ a{
     text-decoration: none;
     
 }
+img{margin-right: 2rem;}
 .wrapper{
     display: flex;
 }
